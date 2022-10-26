@@ -1,12 +1,24 @@
 
 {
 
- "version":"1.0",
+ "version":"9.45",
 
  "title":"Atualização disponível 🛠️",
 
- "description":"WhatsApp Beta Mini Uma nova atualização está disponível novas base atualizada correção de bugs e muito mais.",
+ "description":"Uma nova atualização está disponível e incluí novos emojis, opção para salvar imagens e/ou vídeos que só poderiam ser vistos uma única vez, possibilidade de filtrar apenas as mensagens envidas por um determinado contato em um grupo e outros recursos.",
 
-"download":"https://youtube.com/c/HdMods"
+"download":"https://voubaixar.com/jt-whatsapp/"
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
